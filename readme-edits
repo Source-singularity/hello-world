@@ -1,0 +1,9 @@
+/// ���Ѵ��ļ��еĵ�����������  cmd    ���뵱ǰ�ļ��е�������Ŀ¼
+####ffmpeg���ص�ַ��https://ffmpeg.org/   ��������ɺ����ֶ���bin�ļ��������������   ϵͳ��:\Windows\System32  ��
+####you-get���ص�ַ��https://github.com/soimort/you-get��װ��python��ʹ��#pip3 install you-get#���أ�
+####python���ص�ַ��https://www.python.org/
+
+ת�� $ ffmpeg -i "XXX.xxx" -c copy "XXX.xxx"           #��XXX��xxx��ʽ ���ı���� ת��Ϊ XXX��xxx��ʽ
+�ϳ� $ ffmpeg -i "XXX".xxx -i "XXX".xxx "XXX".xxx           #-i ��  -i ��Ƶ
+
+���� $ you-get XXX -i        #XXXΪ���Ƶ���Ƶ��ַ��ִ�� -i �������ʾ��������
